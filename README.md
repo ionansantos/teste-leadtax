@@ -9,7 +9,7 @@ git clone https://github.com/ionansantos/teste-leadtax
 ```
 
 ```sh
-cd app-laravel
+cd teste-leadtax
 ```
 
 Crie o Arquivo .env
