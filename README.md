@@ -48,7 +48,7 @@ Rode as migrations
 php artisan migrate
 ```
 
-Rode o command para recuperar os produtos do Marketplace
+Rode o command para gerar os dados dos produtos
 
 ```sh
 php artisan scrape:products
