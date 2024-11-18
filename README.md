@@ -21,7 +21,7 @@ cp .env.example .env
 Suba os containers do projeto
 
 ```sh
-docker-compose up -d ou docker compose up -d
+docker compose up -d
 ```
 
 Acesse o container app
